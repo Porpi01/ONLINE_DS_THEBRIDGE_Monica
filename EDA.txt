@@ -1,0 +1,9 @@
+Presentación EDA
+
+Power point duración máximo 15 min
+Nombre del repositprio en github = nombre de tu proyecto nada de EDA
+Hay q hacer un fichero readme (página de presentación del repositorio)
+
+Dos apartados en repo EDA
+proyecto: presentación en pdf, readme un notebook de memoria
+trabajo: notebooks, scripts etc
