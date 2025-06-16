@@ -1,0 +1,7 @@
+
+Reducir píxeles imágenes
+
+Kernel: matriz
+Imagen devuelta: feature map
+MAX POOLING: máximo píxel (USAR SIEMPRE) pq 
+AVG POOLING: la media de los píxeles
